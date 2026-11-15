@@ -3,7 +3,8 @@
 End-to-end project: Data Cleaning with Code + Interactive Dashboard in Power BI.
 Analyzed **12,315 road accidents** and **19K casualties** to find when, where & why accidents happen.
  
-![Dashboard](dashboard-screenshot.png)
+<img width="607" height="333" alt="image" src="https://github.com/user-attachments/assets/55f81ef8-e48b-4fe6-b678-31064c143ce8" />
+
  
 ## 📊 Key KPIs
 - **Total Accidents:** 12.315K
